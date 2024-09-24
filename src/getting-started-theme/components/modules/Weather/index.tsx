@@ -12,7 +12,7 @@ export const fields = (
     <TextField
       label="Weather Headline"
       name="headline"
-      default="Get the latest weather forecast"
+      default="Get the latest weather forecast!"
     />
   </ModuleFields>
 );
